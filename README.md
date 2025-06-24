@@ -2,11 +2,6 @@
 
 An elegant e-commerce platform that allows users to browse products, view details, and manage a shopping cart.
 
-## 📅 Timeline
-October 2024
-
-## 💼 My Role
-Contributed to the **frontend** – implemented product listings, cart logic, and category filtering UI.
 
 ## 🛠️ Tools & Technologies Used
 - HTML
